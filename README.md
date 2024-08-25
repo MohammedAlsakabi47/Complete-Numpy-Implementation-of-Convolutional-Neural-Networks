@@ -1,6 +1,9 @@
 # Complete Numpy Implementation of Convolutional Neural Networks
 
-This repository presents an efficient implementation of convolutional neural network library using only `numpy`. This library include forward- and back-propagation of:
-- ssdf
-- sdfsf
-- sdfsdf
+This repository presents an efficient implementation for a convolutional neural network library using only `numpy`. This library includes forward- and back-propagation of:
+- Convolutional layers
+- Pooling layers
+- Activation functions
+- Loss functions
+- Batch normalization
+- Linear layers
